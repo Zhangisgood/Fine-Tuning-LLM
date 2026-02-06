@@ -68,6 +68,3 @@ result = improve_text("Your text.", task="Make the text more cohesive")
 - Hugging Face Transformers
 - Hugging Face Datasets
 - Google Colab (T4 GPU)
-
-## Author
-CSYE 7230 - Software Engineering, Northeastern University
